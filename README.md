@@ -1,4 +1,8 @@
-# DepressionSymptosAnalysis
+# Análise sobre Depressão nos Estados Unidos
+
+<p align="center">
+  <img src="https://img.freepik.com/free-vector/depression-concept-illustration_114360-3747.jpg?w=740&t=st=1673039462~exp=1673040062~hmac=8576f81b84bcd61b817fb01a3d0a55628493ad5852751bf0d84dde4e1e31a4cb" height=400px >
+</p>
 
 A National Health and Nutrition Examination Survey - NHANES - é uma grande pesquisa conduzida nos Estados Unidos e serve para entender o estado atual da saúde e nutrição da população civil. Este tipo de pesquisa monitora às tendências nas condições de saúde da população e avalia as mudanças na saúde pública e na prática clínica.
 
